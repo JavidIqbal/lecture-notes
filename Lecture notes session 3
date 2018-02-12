@@ -1,0 +1,19 @@
+1) use lower camel case to name variables
+2) Use 'let' to re-assign a variable
+3) Try to always use 'const' to assign a variable once
+4) don't use var unless it's already used in an existing program
+5) Always use === not double equals (==) as this ensures types are the same
+6) Javascript has inbuilt functions
+7) To convert string to number use parseint
+8) dot notation in javascript - to specify a variable inside an object, do joe.name
+9) square brackets in javascript evaluate first []
+10) Difference between functions and objects?! Google
+11) how to declare arrays, objects and functions.
+12) An Array is a object.
+13) declare an array using [] square brackets
+14) You can have any types in an array but best to keep to the same type in the same array.
+15) arrays count from zero
+16) challenge this week is to do with arrays - retrieve values inside an array.
+17) code . ---------- imports into visual code
+
+ 
